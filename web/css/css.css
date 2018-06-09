@@ -1,0 +1,8 @@
+.div_teste{
+    width:700px;
+    height:500px;
+    position:absolute;
+    z-index:100;
+    top:50px;
+    margin-left:300px;
+}
